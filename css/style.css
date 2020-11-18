@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    background-color: brown;
+}
+
+h1+p {
+    background-color: orange;
+}
+
+h2 {
+    background-color: green;
+}
+
+h2+p {
+    background-color: chocolate;
+}
+
+ol {
+    background-color: white;
+}
+
+.item1 {
+    color: tomato;
+}
+
+.item2 {
+    color: blue;
+}
+
+.item3 {
+    color: blueviolet;
+}
+
+.item4 {
+    color: red;
+}
+
+.item5 {
+    color: orange;
+}
